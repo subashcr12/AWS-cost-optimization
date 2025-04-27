@@ -12,3 +12,10 @@ Add policy for snapshots function :
 
 **Reference**
 https://youtu.be/OKYJCHHSWb4?si=YB_mpL0rWsNC3FHA
+
+
+**Shell scripting for jenkins upload jenkins in S3**
+ configure:
+ Add cli user and policy to access s3
+ chmod 777 (file name)
+ ./fimename
